@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>Alpha</name>
+=======
+	<name>FizzBuzz</name>
+>>>>>>> f186971369110425239c3fea57389f08407eab03
 	<comment></comment>
 	<projects>
 	</projects>
